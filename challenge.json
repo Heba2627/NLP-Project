@@ -1,0 +1,122 @@
+[
+  {
+    "id": "andreas-01-a",
+    "pair_id": "andreas-01",
+    "created_by": "Andreas",
+    "question": "케카우메노스에 따르면 바실리오스 2세는 몇 명의 포로를 잡았나?",
+    "context": "Skylitzes records that Basil completely routed the Bulgarian army and took 15,000 prisoners (14,000 according to Kekaumenos). Modern historians, however, such as Vasil Zlatarski, claim that these numbers are exaggerated. The 14th century Bulgarian translation of the Manasses Chronicle numbers the prisoners at 8,000. Basil divided the prisoners into groups of 100 men, blinded 99 men in each group and left one man in each with one eye so that he could lead the others home; this was done in retaliation for the death of Botaneiates, who was Basil's favourite general and advisor, and also to crush the Bulgarian morale. Another possible reason was that, from the Byzantine perspective, the Bulgarians were rebels against their authority, and blinding was the usual punishment meted out to rebels. For this action, Basil gained the nickname Boulgaroktonos (Greek: Βουλγαροκτόνος, Bulgarian: Българоубиец), \"the Bulgar-slayer\".",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 93,
+    "answer": "14,000",
+    "source_url": "https://en.wikipedia.org/wiki/Battle_of_Kleidion"
+  },
+  {
+    "id": "andreas-01-u",
+    "pair_id": "andreas-01",
+    "created_by": "Andreas",
+    "question": "즐라타르스키에 따르면 바실리오스 2세는 몇 명의 포로를 잡았나?",
+    "context": "Skylitzes records that Basil completely routed the Bulgarian army and took 15,000 prisoners (14,000 according to Kekaumenos). Modern historians, however, such as Vasil Zlatarski, claim that these numbers are exaggerated. The 14th century Bulgarian translation of the Manasses Chronicle numbers the prisoners at 8,000. Basil divided the prisoners into groups of 100 men, blinded 99 men in each group and left one man in each with one eye so that he could lead the others home; this was done in retaliation for the death of Botaneiates, who was Basil's favourite general and advisor, and also to crush the Bulgarian morale. Another possible reason was that, from the Byzantine perspective, the Bulgarians were rebels against their authority, and blinding was the usual punishment meted out to rebels. For this action, Basil gained the nickname Boulgaroktonos (Greek: Βουλγαροκτόνος, Bulgarian: Българоубиец), \"the Bulgar-slayer\".",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Battle_of_Kleidion"
+  },
+  {
+    "id": "andreas-02-a",
+    "pair_id": "andreas-02",
+    "created_by": "Andreas",
+    "question": "متى دخل نقفور فوقاس مدينة الخندق؟",
+    "context": "At the recommendation of the influential minister Joseph Bringas, Nikephoros was entrusted to lead this expedition against the Muslim Emirate of Crete. The Byzantines disembarked near Almyros, where they defeated a minor Arab force. Nikephoros soon began a nine-month siege of the fortress town of Chandax, where his forces suffered through the winter due to supply issues. Following a failed assault and many raids into the countryside, Nikephoros entered Chandax on 6 March 961 and soon wrested control of the entire island from the Muslims.",
+    "lang": "ar",
+    "answerable": true,
+    "answer_start": 468,
+    "answer": "6 March 961",
+    "source_url": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas"
+  },
+  {
+    "id": "andreas-02-u",
+    "pair_id": "andreas-02",
+    "created_by": "Andreas",
+    "question": "متى غادر نقفور فوقاس مدينة الخندق؟",
+    "context": "At the recommendation of the influential minister Joseph Bringas, Nikephoros was entrusted to lead this expedition against the Muslim Emirate of Crete. The Byzantines disembarked near Almyros, where they defeated a minor Arab force. Nikephoros soon began a nine-month siege of the fortress town of Chandax, where his forces suffered through the winter due to supply issues. Following a failed assault and many raids into the countryside, Nikephoros entered Chandax on 6 March 961 and soon wrested control of the entire island from the Muslims.",
+    "lang": "ar",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Nikephoros_II_Phokas"
+  },
+  {
+    "id": "andreas-03-a",
+    "pair_id": "andreas-03",
+    "created_by": "Andreas",
+    "question": "주술회전 연재는 휴재 후 언제 재개되었나?",
+    "context": "In February 2021, Akutami stated that the series would probably be finished within two years, declaring, however, no confidence in that statement. Akutami knew how the story for Megumi Fushiguro would end, but not for Sukuna. On June 9, 2021, it was announced that the manga would enter a hiatus due to the author's health issues; it resumed publication on August 2 of the same year.",
+    "lang": "ko",
+    "answerable": true,
+    "answer_start": 357,
+    "answer": "August 2",
+    "source_url": "https://en.wikipedia.org/wiki/Jujutsu_Kaisen"
+  },
+  {
+    "id": "andreas-03-u",
+    "pair_id": "andreas-03",
+    "created_by": "Andreas",
+    "question": "주술회전 연재는 휴재 후 언제 완결되었나?",
+    "context": "In February 2021, Akutami stated that the series would probably be finished within two years, declaring, however, no confidence in that statement. Akutami knew how the story for Megumi Fushiguro would end, but not for Sukuna. On June 9, 2021, it was announced that the manga would enter a hiatus due to the author's health issues; it resumed publication on August 2 of the same year.",
+    "lang": "ko",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Jujutsu_Kaisen"
+  },
+  {
+    "id": "andreas-04-a",
+    "pair_id": "andreas-04",
+    "created_by": "Andreas",
+    "question": "బ్రిటానియాలో శాంతిభద్రతలను పునరుద్ధరించడానికి ఎవరిని పంపారు?",
+    "context": "Prior to Hadrian's arrival in Britannia, the province had suffered a major rebellion from 118 to 119. Inscriptions tell of an expeditio Britannica that involved major troop movements, including the dispatch of a detachment (vexillatio), comprising some 3,000 soldiers. Fronto writes about military losses in Britannia at the time. Coin legends of 119–120 attest that Quintus Pompeius Falco was sent to restore order. In 122 Hadrian initiated the construction of a wall \"to separate Romans from barbarians\".",
+    "lang": "te",
+    "answerable": true,
+    "answer_start": 367,
+    "answer": "Quintus Pompeius Falco",
+    "source_url": "https://en.wikipedia.org/wiki/Hadrian"
+  },
+  {
+    "id": "andreas-04-u",
+    "pair_id": "andreas-04",
+    "created_by": "Andreas",
+    "question": "బ్రిటానియాలో గోడను నిర్మించడానికి ఎవరిని పంపారు?",
+    "context": "Prior to Hadrian's arrival in Britannia, the province had suffered a major rebellion from 118 to 119. Inscriptions tell of an expeditio Britannica that involved major troop movements, including the dispatch of a detachment (vexillatio), comprising some 3,000 soldiers. Fronto writes about military losses in Britannia at the time. Coin legends of 119–120 attest that Quintus Pompeius Falco was sent to restore order. In 122 Hadrian initiated the construction of a wall \"to separate Romans from barbarians\".",
+    "lang": "te",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Hadrian"
+  },
+  {
+    "id": "andreas-05-a",
+    "pair_id": "andreas-05",
+    "created_by": "Andreas",
+    "question": "من صادر بضائع محمد البوعزيزي؟",
+    "context": "The catalyst for the escalation of protests was the self-immolation of Tunisian Mohamed Bouazizi. Unable to find work and selling fruit at a roadside stand, Bouazizi had his wares confiscated by a municipal inspector on 17 December 2010. An hour later he doused himself with gasoline and set himself afire. His death on 4 January 2011 brought together various groups dissatisfied with the existing system, including many unemployed persons, political and human rights activists, labor and trade unionists, students, professors, lawyers, and others to begin the Tunisian Revolution.",
+    "lang": "ar",
+    "answerable": true,
+    "answer_start": 195,
+    "answer": "a municipal inspector",
+    "source_url": "https://en.wikipedia.org/wiki/Arab_Spring"
+  },
+  {
+    "id": "andreas-05-u",
+    "pair_id": "andreas-05",
+    "created_by": "Andreas",
+    "question": "من أمر بمصادرة بضائع محمد البوعزيزي؟",
+    "context": "The catalyst for the escalation of protests was the self-immolation of Tunisian Mohamed Bouazizi. Unable to find work and selling fruit at a roadside stand, Bouazizi had his wares confiscated by a municipal inspector on 17 December 2010. An hour later he doused himself with gasoline and set himself afire. His death on 4 January 2011 brought together various groups dissatisfied with the existing system, including many unemployed persons, political and human rights activists, labor and trade unionists, students, professors, lawyers, and others to begin the Tunisian Revolution.",
+    "lang": "ar",
+    "answerable": false,
+    "answer_start": -1,
+    "answer": "",
+    "source_url": "https://en.wikipedia.org/wiki/Arab_Spring"
+  }
+]
